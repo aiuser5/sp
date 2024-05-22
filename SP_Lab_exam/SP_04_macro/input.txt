@@ -1,0 +1,15 @@
+macro ABC 
+load a
+add b
+mend
+
+macro PQR
+load a
+sub b
+mend
+
+.code
+add b
+ABC
+PQR
+end

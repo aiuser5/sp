@@ -1,0 +1,12 @@
+Macro ABC &a, &b
+Load &a
+Add &b
+Mend
+
+Macro XYZ &p, &q, &r
+Load X
+Add &a
+Sub &b
+Mult y
+Store &c
+Mend
