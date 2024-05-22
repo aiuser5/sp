@@ -1,6 +1,0 @@
-DB 2
-DW 2
-ORG 1
-ENDP 0
-CONST 2
-END 0
